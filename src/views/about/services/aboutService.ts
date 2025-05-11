@@ -6,7 +6,7 @@ const aboutCIIS = [
       "Más de 15 ponencias con destacados expertos internacionales. ¡No te las pierdas!",
   },
   {
-    title1: "26va",
+    title1: "26a",
     title2: "Edición",
     description:
       "26 años reuniendo a los mejores ponentes del mundo. ¡Únete a la celebración!",
